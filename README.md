@@ -1,3 +1,4 @@
 # apnacollege
-This is my repository.
+This is my first git repository.
+</br>
 Author- Devagya Singh
